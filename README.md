@@ -37,14 +37,23 @@ CARTS
 USERS
 
 --REGISTER
+
 --localhost:8080/auth/register
+
 ![Register](https://github.com/user-attachments/assets/468fa006-1b3e-4dd4-93bc-c640ce50c361)
+
 ![UserDB](https://github.com/user-attachments/assets/4245b3dd-b6ba-46b8-84c4-fce9439b01bb)
+
 --LOGIN
---http://localhost:8080/auth/login
+
+--localhost:8080/auth/login
+
 ![Login](https://github.com/user-attachments/assets/2957c989-41fb-4764-8900-b8bd4214c637)
+
 --PROFILE
+
 --localhost:8080/auth/profile
+
 ![profile](https://github.com/user-attachments/assets/706f7b0b-e7fb-42b4-b08d-74a6c1204821)
 
 
